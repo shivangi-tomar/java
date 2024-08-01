@@ -94,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shivangi-tomar/java/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shivangi-tomar/java/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/shivangi-tomar/java/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
