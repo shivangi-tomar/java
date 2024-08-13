@@ -1,29 +1,26 @@
-import java.util.*;
-
 class Solution {
     public String predictPartyVictory(String senate) {
-        Queue<Integer> radiant = new LinkedList<>();
-        Queue<Integer> dire = new LinkedList<>();
+        Queue<Integer> rad = new LinkedList<>(), dir = new LinkedList<>();
         int n = senate.length();
-        
-        for (int i = 0; i < n; i++) {
-            if (senate.charAt(i) == 'R') {
-                radiant.offer(i);
+        // Add all senators to respect queue with index
+        for (int i = 0; i < n; i++){
+            if (senate.charAt(i) == 'R'){
+                rad.add(i);
             } else {
-                dire.offer(i);
+                dir.add(i);
             }
         }
-        
-        while (!radiant.isEmpty() && !dire.isEmpty()) {
-            int rIndex = radiant.poll();
-            int dIndex = dire.poll();
-            if (rIndex < dIndex) {
-                radiant.offer(rIndex + n);
+        // Use increasing n to keep track of position
+        while (!rad.isEmpty() && !dir.isEmpty()){
+            // Only "winner" stays in their queue
+            if (rad.peek() < dir.peek()){
+                rad.add(n++);
             } else {
-                dire.offer(dIndex + n);
+                dir.add(n++);
             }
+            rad.poll();
+            dir.poll();
         }
-        
-        return radiant.isEmpty() ? "Dire" : "Radiant";
+        return (rad.isEmpty()) ? ("Dire") : ("Radiant");
     }
 }
