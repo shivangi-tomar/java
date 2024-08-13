@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivangi-tomar/java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/shivangi-tomar/java/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
