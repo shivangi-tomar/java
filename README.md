@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
 ## Design
 |  |
@@ -130,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
