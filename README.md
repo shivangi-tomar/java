@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivangi-tomar/java/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivangi-tomar/java/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
 ## Greedy
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
