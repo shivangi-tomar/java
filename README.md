@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shivangi-tomar/java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivangi-tomar/java/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivangi-tomar/java/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivangi-tomar/java/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/shivangi-tomar/java/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
