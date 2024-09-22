@@ -1,29 +1,39 @@
 class Solution {
-    int count = 0;
-
-    public void dfs(int node, int parent, Map<Integer, List<List<Integer>>> adj) {
-        if (!adj.containsKey(node)) {
-            return;
-        }
-        for (List<Integer> nei : adj.get(node)) {
-            int neighbor = nei.get(0);
-            int sign = nei.get(1);
-            if (neighbor != parent) {
-                count += sign;
-                dfs(neighbor, node, adj);
-            }
-        }
-    }
 
     public int minReorder(int n, int[][] connections) {
-        Map<Integer, List<List<Integer>>> adj = new HashMap<>();
-        for (int[] connection : connections) {
-            adj.computeIfAbsent(connection[0], k -> new ArrayList<List<Integer>>()).add(
-                    Arrays.asList(connection[1], 1));
-            adj.computeIfAbsent(connection[1], k -> new ArrayList<List<Integer>>()).add(
-                    Arrays.asList(connection[0], 0));
+        List<Integer>[] adjList = new List[n];
+
+        for(int i = 0; i < n; i++) {
+            adjList[i] = new LinkedList<>();
         }
-        dfs(0, -1, adj);
-        return count;
+
+        for(var edge : connections) {
+            adjList[edge[0]].add(edge[1] + 1);
+            adjList[edge[1]].add(-edge[0] - 1);
+        }
+
+        return dfs(adjList, 0, -1);
+    }
+
+    private int dfs(List<Integer>[] adjList, int vertex, int prev) {
+        int result = 0;
+
+        for(int neighbor : adjList[vertex]) {
+            if(Math.abs(neighbor) - 1 == prev) {
+                continue;
+            }
+
+            if(neighbor > 0) {
+                result++;
+            }
+
+            else {
+                neighbor *= -1;
+            }
+
+            result += dfs(adjList, neighbor - 1, vertex);
+        }
+
+        return result;
     }
 }
