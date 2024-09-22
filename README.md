@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivangi-tomar/java/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivangi-tomar/java/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivangi-tomar/java/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Greedy
 |  |
 | ------- |
