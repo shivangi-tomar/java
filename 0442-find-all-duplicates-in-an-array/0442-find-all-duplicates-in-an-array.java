@@ -1,6 +1,6 @@
 
-import java.util.ArrayList;  
-import java.util.List;  
+import java.util.*;  
+
 
 class Solution {  
     public List<Integer> findDuplicates(int[] nums) {  
@@ -11,7 +11,7 @@ class Solution {
             if (nums[m - 1] < 0) {  
                 myList.add(m);  
             } else {  
-                nums[m - 1] = -nums[m - 1];  
+                nums[m - 1] = -1 * nums[m - 1];  
             }  
         }  
         return myList;  
