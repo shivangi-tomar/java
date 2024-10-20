@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivangi-tomar/java/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/shivangi-tomar/java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/shivangi-tomar/java/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/shivangi-tomar/java/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivangi-tomar/java/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/shivangi-tomar/java/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
