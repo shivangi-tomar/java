@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/shivangi-tomar/java/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
