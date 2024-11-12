@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivangi-tomar/java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivangi-tomar/java/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
 |  |
 | ------- |
