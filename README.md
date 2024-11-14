@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivangi-tomar/java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
