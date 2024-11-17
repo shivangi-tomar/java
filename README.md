@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangi-tomar/java/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shivangi-tomar/java/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shivangi-tomar/java/tree/master/0399-evaluate-division) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
 ## Matrix
