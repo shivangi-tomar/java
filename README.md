@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shivangi-tomar/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivangi-tomar/java/tree/master/0009-palindrome-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -279,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
