@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shivangi-tomar/java/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/shivangi-tomar/java/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0399-evaluate-division](https://github.com/shivangi-tomar/java/tree/master/0399-evaluate-division) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/shivangi-tomar/java/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivangi-tomar/java/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
