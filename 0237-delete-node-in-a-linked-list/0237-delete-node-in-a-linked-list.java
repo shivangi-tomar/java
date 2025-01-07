@@ -13,6 +13,7 @@ class Solution {
             temp.val = temp.next.val;
             temp= temp.next;
         }
+        //updation
         temp.val=temp.next.val;
         temp.next = null;
     }
