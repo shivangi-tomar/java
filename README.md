@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/shivangi-tomar/java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivangi-tomar/java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
