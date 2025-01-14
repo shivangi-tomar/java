@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivangi-tomar/java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shivangi-tomar/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivangi-tomar/java/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
