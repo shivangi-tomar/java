@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivangi-tomar/java/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/shivangi-tomar/java/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/shivangi-tomar/java/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/shivangi-tomar/java/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/shivangi-tomar/java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/shivangi-tomar/java/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivangi-tomar/java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivangi-tomar/java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shivangi-tomar/java/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-tomar/java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-tomar/java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0941-sort-array-by-parity](https://github.com/shivangi-tomar/java/tree/master/0941-sort-array-by-parity) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivangi-tomar/java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivangi-tomar/java/tree/master/2392-successful-pairs-of-spells-and-potions) |
