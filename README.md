@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shivangi-tomar/java/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivangi-tomar/java/tree/master/0747-min-cost-climbing-stairs) |
+| [0890-lemonade-change](https://github.com/shivangi-tomar/java/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/shivangi-tomar/java/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/shivangi-tomar/java/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/shivangi-tomar/java/tree/master/1036-rotting-oranges) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-tomar/java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivangi-tomar/java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/shivangi-tomar/java/tree/master/0890-lemonade-change) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/shivangi-tomar/java/tree/master/2756-buy-two-chocolates) |
 ## Union Find
