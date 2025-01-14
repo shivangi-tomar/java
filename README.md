@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/shivangi-tomar/java/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/shivangi-tomar/java/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
+| [2756-buy-two-chocolates](https://github.com/shivangi-tomar/java/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivangi-tomar/java/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivangi-tomar/java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
+| [2756-buy-two-chocolates](https://github.com/shivangi-tomar/java/tree/master/2756-buy-two-chocolates) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivangi-tomar/java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
+| [2756-buy-two-chocolates](https://github.com/shivangi-tomar/java/tree/master/2756-buy-two-chocolates) |
 ## Union Find
 |  |
 | ------- |
