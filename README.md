@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/shivangi-tomar/java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivangi-tomar/java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
