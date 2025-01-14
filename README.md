@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivangi-tomar/java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shivangi-tomar/java/tree/master/0086-partition-list) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
