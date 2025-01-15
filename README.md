@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-tomar/java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-tomar/java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/shivangi-tomar/java/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
