@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivangi-tomar/java/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivangi-tomar/java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/shivangi-tomar/java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivangi-tomar/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/shivangi-tomar/java/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/shivangi-tomar/java/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/shivangi-tomar/java/tree/master/2428-equal-row-and-column-pairs) |
