@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shivangi-tomar/java/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/shivangi-tomar/java/tree/master/0228-summary-ranges) |
+| [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/shivangi-tomar/java/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/shivangi-tomar/java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivangi-tomar/java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
