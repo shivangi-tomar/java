@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shivangi-tomar/java/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
