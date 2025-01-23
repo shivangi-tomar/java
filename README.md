@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/shivangi-tomar/java/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivangi-tomar/java/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/shivangi-tomar/java/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/shivangi-tomar/java/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shivangi-tomar/java/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/shivangi-tomar/java/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
