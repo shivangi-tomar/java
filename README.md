@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/shivangi-tomar/java/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/shivangi-tomar/java/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/shivangi-tomar/java/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/shivangi-tomar/java/tree/master/0871-keys-and-rooms) |
