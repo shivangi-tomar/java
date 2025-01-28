@@ -1,11 +1,12 @@
 class Solution {
     
-    public int fib(int n) { // 4
+    public int fib(int n) { 
         return Helper(n);
     }
 
 
     public int Helper(int n){
+        //base lagaya h
         if(n == 0) {
             return 0;
         }
