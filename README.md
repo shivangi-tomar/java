@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/shivangi-tomar/java/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivangi-tomar/java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivangi-tomar/java/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/shivangi-tomar/java/tree/master/0806-domino-and-tromino-tiling) |
+| [1013-fibonacci-number](https://github.com/shivangi-tomar/java/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
+| [1013-fibonacci-number](https://github.com/shivangi-tomar/java/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivangi-tomar/java/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/shivangi-tomar/java/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/shivangi-tomar/java/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
