@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivangi-tomar/java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shivangi-tomar/java/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivangi-tomar/java/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivangi-tomar/java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shivangi-tomar/java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shivangi-tomar/java/tree/master/0088-merge-sorted-array) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivangi-tomar/java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivangi-tomar/java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivangi-tomar/java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/shivangi-tomar/java/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/shivangi-tomar/java/tree/master/0937-online-stock-span) |
 ## Shortest Path
