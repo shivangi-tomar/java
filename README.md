@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shivangi-tomar/java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivangi-tomar/java/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/shivangi-tomar/java/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shivangi-tomar/java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
