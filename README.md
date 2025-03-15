@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivangi-tomar/java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/shivangi-tomar/java/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/shivangi-tomar/java/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
