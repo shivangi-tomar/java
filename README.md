@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/shivangi-tomar/java/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/shivangi-tomar/java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/shivangi-tomar/java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
