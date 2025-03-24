@@ -21,7 +21,8 @@ class Solution {
         for (int i = 0; i < n; i++) {
             water += Math.min(leftmax[i], rightmax[i]) - height[i];
         }
-
         return water;
+
+    
     }
 }
