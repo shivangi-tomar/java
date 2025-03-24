@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shivangi-tomar/java/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangi-tomar/java/tree/master/0560-subarray-sum-equals-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivangi-tomar/java/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/shivangi-tomar/java/tree/master/0399-evaluate-division) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [1250-longest-common-subsequence](https://github.com/shivangi-tomar/java/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivangi-tomar/java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivangi-tomar/java/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivangi-tomar/java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
