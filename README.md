@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivangi-tomar/java/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/shivangi-tomar/java/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/shivangi-tomar/java/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/shivangi-tomar/java/tree/master/1013-fibonacci-number) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shivangi-tomar/java/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/shivangi-tomar/java/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/shivangi-tomar/java/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shivangi-tomar/java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/shivangi-tomar/java/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shivangi-tomar/java/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shivangi-tomar/java/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/shivangi-tomar/java/tree/master/0389-find-the-difference) |
