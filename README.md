@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/shivangi-tomar/java/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/shivangi-tomar/java/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/shivangi-tomar/java/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/shivangi-tomar/java/tree/master/2413-smallest-number-in-infinite-set) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivangi-tomar/java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
+| [0838-design-linked-list](https://github.com/shivangi-tomar/java/tree/master/0838-design-linked-list) |
 ## Memoization
 |  |
 | ------- |
