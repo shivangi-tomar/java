@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shivangi-tomar/java/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivangi-tomar/java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/shivangi-tomar/java/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivangi-tomar/java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
