@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivangi-tomar/java/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivangi-tomar/java/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/shivangi-tomar/java/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivangi-tomar/java/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/shivangi-tomar/java/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivangi-tomar/java/tree/master/0975-range-sum-of-bst) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shivangi-tomar/java/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/shivangi-tomar/java/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/shivangi-tomar/java/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivangi-tomar/java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/shivangi-tomar/java/tree/master/0890-lemonade-change) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 | [2636-maximum-subsequence-score](https://github.com/shivangi-tomar/java/tree/master/2636-maximum-subsequence-score) |
 | [2756-buy-two-chocolates](https://github.com/shivangi-tomar/java/tree/master/2756-buy-two-chocolates) |
 ## Union Find
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/shivangi-tomar/java/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/1285-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
