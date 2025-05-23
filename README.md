@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-tomar/java/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shivangi-tomar/java/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/shivangi-tomar/java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shivangi-tomar/java/tree/master/0289-game-of-life) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shivangi-tomar/java/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/shivangi-tomar/java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shivangi-tomar/java/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivangi-tomar/java/tree/master/1046-max-consecutive-ones-iii) |
