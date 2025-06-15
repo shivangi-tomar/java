@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivangi-tomar/java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/shivangi-tomar/java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shivangi-tomar/java/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/shivangi-tomar/java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/shivangi-tomar/java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shivangi-tomar/java/tree/master/0056-merge-intervals) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shivangi-tomar/java/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/shivangi-tomar/java/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/shivangi-tomar/java/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/shivangi-tomar/java/tree/master/1036-rotting-oranges) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivangi-tomar/java/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shivangi-tomar/java/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/shivangi-tomar/java/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/shivangi-tomar/java/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/shivangi-tomar/java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivangi-tomar/java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
