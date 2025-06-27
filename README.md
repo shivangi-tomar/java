@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/shivangi-tomar/java/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-tomar/java/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shivangi-tomar/java/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/shivangi-tomar/java/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/shivangi-tomar/java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/shivangi-tomar/java/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-tomar/java/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shivangi-tomar/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivangi-tomar/java/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivangi-tomar/java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/shivangi-tomar/java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shivangi-tomar/java/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shivangi-tomar/java/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/shivangi-tomar/java/tree/master/0349-intersection-of-two-arrays) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shivangi-tomar/java/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/shivangi-tomar/java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivangi-tomar/java/tree/master/0387-first-unique-character-in-a-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/shivangi-tomar/java/tree/master/1777-determine-if-two-strings-are-close) |
