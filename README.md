@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivangi-tomar/java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shivangi-tomar/java/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivangi-tomar/java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivangi-tomar/java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shivangi-tomar/java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/shivangi-tomar/java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-tomar/java/tree/master/0219-contains-duplicate-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivangi-tomar/java/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/shivangi-tomar/java/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/shivangi-tomar/java/tree/master/0547-number-of-provinces) |
 ## Monotonic Stack
