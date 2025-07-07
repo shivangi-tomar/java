@@ -1,36 +1,28 @@
 class Solution {
-    public int longestConsecutive(int[] nums) 
-    {
-        Set<Integer> numSet = new HashSet<>();
-        int n = nums.length;
-
-        // Add all numbers to the set
-        for (int i = 0; i < n; i++) 
-        {
-            numSet.add(nums[i]);
+    public int longestConsecutive(int[] nums) {
+        int n=nums.length;
+        if(n==0){
+            return 0;
+            
         }
-
-        int maxLen = 0;
-
-        // Find the longest consecutive sequence
-        for (int num : numSet) 
-        {
-            // Check if the current number is the start of a sequence
-            if (!numSet.contains(num - 1)) 
-            {
-                int currNum = num;
-                int currLen = 0;
-
-                // Count the length of the consecutive sequence
-                while (numSet.contains(currNum)) 
-                {
-                    currNum++;
-                    currLen++;
-                    maxLen = Math.max(maxLen, currLen);
+        int longest=0;
+        //set m pura array insert krr rahe h
+        Set<Integer> set=new HashSet<>();
+        for(int i=0;i<n;i++){
+            set.add(nums[i]);
+        } 
+        //it mtlb starting consecutive ki aur -1 isliye ki usse pehle koyi hua toh vo startoing point  nhi hoga 
+        for(int it:set){
+            if(!set.contains(it-1)){
+                int cnt=1;
+                int x=it;
+                while(set.contains(x+1)){
+                    x=x+1;
+                    cnt=cnt+1;
                 }
+                longest =Math.max(longest,cnt);
             }
         }
-
-        return maxLen;
+        return longest;
     }
 }
