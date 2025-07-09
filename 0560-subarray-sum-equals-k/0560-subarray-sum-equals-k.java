@@ -1,27 +1,20 @@
-import java.util.*;
 class Solution {
-    public int subarraySum(int[] nums, int k) 
-    {
-        HashMap <Integer,Integer>Map=new HashMap<>();
-        Map.put(0,1);
-        int ans=0;
-        int sum =0;
-        for(int j=0;j<nums.length;j++){
-            sum+=nums[j];
-            if(Map.containsKey(sum-k)){
-                ans+=Map.get(sum-k);
-            }
-            if(Map.containsKey(sum)){
-                Map.put(sum,Map.get(sum)+1);
+    public int subarraySum(int[] nums, int k) {
+        int n = nums.length; // size of the given array.
+        int cnt = 0; // Number of subarrays:
 
-            }
-            else{
-                Map.put(sum,1);
+        for (int i = 0 ; i < n; i++) { // starting index i
+            int sum = 0;
+            for (int j = i; j < n; j++) { // ending index j
+                // calculate the sum of subarray [i...j]
+                // sum of [i..j-1] + arr[j]
+                sum += nums[j];
+
+                // Increase the count if sum == k:
+                if (sum == k)
+                    cnt++;
             }
         }
-            return ans;
-
-
-        
+        return cnt;
     }
 }
