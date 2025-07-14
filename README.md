@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shivangi-tomar/java/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivangi-tomar/java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivangi-tomar/java/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/shivangi-tomar/java/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/shivangi-tomar/java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivangi-tomar/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/shivangi-tomar/java/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivangi-tomar/java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivangi-tomar/java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/shivangi-tomar/java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivangi-tomar/java/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shivangi-tomar/java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/shivangi-tomar/java/tree/master/0338-counting-bits) |
