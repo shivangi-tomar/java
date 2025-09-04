@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shivangi-tomar/java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shivangi-tomar/java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivangi-tomar/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shivangi-tomar/java/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/shivangi-tomar/java/tree/master/0229-majority-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivangi-tomar/java/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shivangi-tomar/java/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/shivangi-tomar/java/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivangi-tomar/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivangi-tomar/java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shivangi-tomar/java/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shivangi-tomar/java/tree/master/0202-happy-number) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shivangi-tomar/java/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/shivangi-tomar/java/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivangi-tomar/java/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivangi-tomar/java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shivangi-tomar/java/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivangi-tomar/java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shivangi-tomar/java/tree/master/0445-add-two-numbers-ii) |
